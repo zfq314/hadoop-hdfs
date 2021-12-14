@@ -18,7 +18,7 @@
     </modules>
     <properties>
         <hadoop-version>2.7.2</hadoop-version>
-        <log4j.version>2.13.2</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
 
     </properties>
 
